@@ -3,6 +3,7 @@
 ## Project Overview
 This project leverages Microsoft Excel to analyze coffee sales data, offering valuable insights into sales performance, customer preferences, and product trends. The dataset contains information on orders, customers, coffee types, roast levels, sizes, and sales figures.
 
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/6a57078b-bcfb-4f57-964a-31c83f3046ea)
 
 ## Key Objectives
 - Clean and prepare raw sales data for analysis.
